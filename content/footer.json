@@ -4,12 +4,12 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -27,13 +27,20 @@
     }
   ],
   "payment_methods": {
-    "pix": true,
+    "bb": true,
     "visa": true,
-    "mastercard": true,
+    "boleto": true,
+    "aura": false,
+    "banrisul": false,
     "elo": true,
-    "amex": true,
-    "hipercard": true,
-    "boleto": true
+    "hipercard": false,
+    "hsbc": false,
+    "bradesco": true,
+    "santander": false,
+    "mastercard": true,
+    "citibank": false,
+    "mais": false,
+    "itau": true
   },
   "credits": ""
 }

@@ -1,1 +1,54 @@
 // Add your custom CSS here.
+@media(min-width: 767px) {
+    .banners-grid .banner picture img {
+        height: 380px;
+        width: auto;
+    }
+    }
+    .page--home {
+    text-align:center
+    }
+    /* @media(max-width: 767px) {
+        #padr .banners-grid .row .col-12 {
+            max-width: 50%;
+        }
+    } */
+    .menu__item:hover {
+        background: #03bb85;
+        text-decoration: none;
+    }
+    .custom-content h2::after {
+        background: url(/img/uploads/infinity.png) no-repeat left top;
+        content: '';
+        display: block;
+        height: 15px;
+        margin: 10px auto 0;
+        width: 30px;
+      }
+    
+    #o-local + .custom-html .container {
+        display: flex;
+        justify-content: center;
+    }
+    .checkout__col .payment__method.list-group-item .payment__text, .footer__title.footer__store + p, #product .shipping-calculator, .shipping-calculator.cart__shipping, .address-form__name {
+    display: none
+    }
+    
+    #footer-casamento {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .checkout__step:nth-child(2) {
+        font-size: 0px;
+      }
+    .checkout__step:nth-child(2):after {
+        content: "Endereço de Cobrança";
+        font-size: 13px !important;
+        padding-left: 5px
+    }
+    .checkout__step:nth-child(2):before, .checkout__step:nth-child(2) small {
+        font-size: 13px !important;
+    }
