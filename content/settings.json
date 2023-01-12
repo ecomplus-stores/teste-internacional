@@ -1,25 +1,26 @@
 {
-  "store_id": 51287,
-  "name": "teste-internacional",
-  "domain": "teste-internacional.netlify.app",
-  "short_name": "teste-internacional",
-  "description": "teste-internacional",
+  "domain": "casamentoli.netlify.app",
+  "currency_symbol": "$",
   "primary_color": "#000000",
-  "secondary_color": "#ffffff",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#fff",
+  "repository": "ecomplus-stores/casamento-i-l",
+  "logo": "/img/uploads/screen-shot-2022-06-25-at-17.18.45.png",
+  "name": "Wedding Laura e Igor",
+  "short_name": "Laura e Igor",
   "lang": "en_us",
   "currency": "USD",
-  "currency_symbol": "$",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/fc69d05802bf07afe80135fe35f0f5b2.jpg",
+  "icons_font": "line-awesome",
   "country_code": "US",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#ffffff",
+  "icon": "/img/uploads/fc69d05802bf07afe80135fe35f0f5b2.jpg",
+  "store_id": 51287,
+  "description": "casamentoli",
+  "large_icon": "/img/large-icon.png"
 }
