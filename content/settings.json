@@ -2,6 +2,7 @@
   "domain": "casamentoli.netlify.app",
   "currency_symbol": "$",
   "primary_color": "#000000",
+"repository": "ecomplus-stores/teste-internacional",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
