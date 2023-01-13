@@ -1,10 +1,10 @@
 {
     "title": "Couple Tips",
-    "body": "Here we provide our indications of stays, restaurants and more.",
+    "body": "Here we provide our indications of stays and restaurants.",
     "sections": [
       {
         "type": "page-title",
-        "title": "Couple Tips"
+        "title": "Recommendations"
       },
       {
         "type": "breadcrumbs",
@@ -16,7 +16,7 @@
       },
       {
         "type": "custom-content",
-        "markdown": "# **Stays**\n\n1. Ibis\n2. Hotel Constantino \n3. Trade Hotel JF (o mais próximo do evento)\n4. Ritz Plaza Hotel\n5. Cesar Inn Juiz de Fora Hotel.\n\n# **The Food**\n\n1. Berttus\n2. Milos \n3. Coxinha da Pipita\n4. Empada Mineira\n5. Boucan\n6. Los Dos\n7. Vizu\n8. Tartarugão\n9. CapJack Pizza"
+        "markdown": "# **Stays**\n\n1. Ibis\n2. Hotel Constantino \n3. Trade Hotel JF (o mais próximo do evento)\n4. Ritz Plaza Hotel\n5. Cesar Inn Juiz de Fora Hotel.\n\n# **The Food**\n\n1. Berttus\n2. Milos \n3. Coxinha da Pipita\n4. Empada Mineira\n5. Boucan\n6. Los Dos\n7. Vizu\n8. Tartarugão\n9. CapJack Pizza\n10. The Dogs"
       }
     ]
   }
