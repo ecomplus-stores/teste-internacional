@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Welcome to what will be the happiest day of our lives!",
+    "text": "Welcome to the happiest day of our lives!",
     "link": "",
     "background": "#ffffff",
     "color": "#040404"
@@ -16,5 +16,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false
 }
