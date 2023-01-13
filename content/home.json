@@ -16,7 +16,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "We created this website to share with you the details of our wedding organization.\n\nWe are very happy and would love to have everyone on our big day!\n\nHere you will also find tips for accommodation, beauty salon, restaurants, sights, etc.\n\nIt is important to confirm your presence. To do so, follow the link in the invitation.\n\nWe look forward to seeing you on our big day!"
+      "markdown": "This website was made to share with you the details of our wedding. \n\nWe are thrilled and would love to have everyone's presence in our big day! \n\nHere you'll also find recommendations to hotels and restaurants. \n\nIt's important for you to RSVP, so follow the instructions you've received via text or email. \n\nWe'll be waiting for you to celebrate our big day with us!"
     },
     {
       "type": "responsive-banner",
@@ -55,7 +55,7 @@
     },
     {
       "type": "o-pedido",
-      "markdown": "## The Request"
+      "markdown": "## The Proposal"
     },
     {
       "type": "custom-html",
@@ -63,7 +63,7 @@
     },
     {
       "type": "os-noivos",
-      "markdown": "## The Bride and Groom"
+      "markdown": "## The Couple"
     },
     {
       "type": "banners-grid",
@@ -76,11 +76,11 @@
     },
     {
       "type": "custom-content",
-      "markdown": "From a drunk couple to a couple in love. The happiness of having found each other is immense, a tender and light love that makes each moment unique. Thank you for being part of our lives and for celebrating our union with us."
+      "markdown": "The happiness of having found each other is immense, a tender love that makes each moment unique. Thank you for being part of our lives and for celebrating our union with us."
     },
     {
       "type": "os-padrinhos",
-      "markdown": "## Godparents"
+      "markdown": "## Wedding Party"
     },
     {
       "type": "custom-html",
@@ -88,7 +88,7 @@
     },
     {
       "type": "o-local",
-      "markdown": "## Wedding Place"
+      "markdown": "## The Venue"
     },
     {
       "type": "custom-html",
