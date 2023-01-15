@@ -115,7 +115,7 @@
         font-size: 1rem !important;
         content: 'Registry - Camicado'
       }
-      .payment__gateway--1251, .payment__gateway--111223 {
+      .payment__gateway--1251, .payment__gateway--111223, .payment__gateway[data-label="PIX"] {
         display: none;
       }
 @media(max-width: 767px) {
